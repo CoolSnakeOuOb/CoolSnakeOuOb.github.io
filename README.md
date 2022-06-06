@@ -1,1 +1,1 @@
-[visit](CoolSnakeOuOb.github.io)
+[Please visit my home page](CoolSnakeOuOb.github.io)
