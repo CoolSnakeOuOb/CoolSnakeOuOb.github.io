@@ -1,4 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <p><a href = "CoolSnakeOuOb.github.io"></a></p>
+  <head></head>
+  <body>
+    <p><a href = "CoolSnakeOuOb.github.io"></a></p>
+  </body>
 </html>
