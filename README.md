@@ -1,3 +1,3 @@
-[Please visit my home page](CoolSnakeOuOb.github.io)
+[Please visit my homepage](CoolSnakeOuOb.github.io).
 ###
 Hi!
